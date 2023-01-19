@@ -1,3 +1,5 @@
+#Compare State Populations
+
 This single page site allows the user to select states to graph and compare their populations over time.
 
 Checkout the page here:
