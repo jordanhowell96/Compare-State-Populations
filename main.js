@@ -13,10 +13,10 @@ const states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Color
 
 let rawData
 
-initalizePage(apiLink, states);
+initializePage(apiLink, states);
                     
 // Initialize the page by calling getData to get the data from the API as well as addCheckboxes to iteratively add checkboxes for the states
-function initalizePage(apiLink, statesNames){
+function initializePage(apiLink, statesNames){
 
     getData(apiLink).then((jsonData) => {
         rawData = jsonData.data
