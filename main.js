@@ -67,7 +67,7 @@ function drawChart() {
 
     // Set chart options
     const options = {
-        title: 'State Population by Year from 2013 to 2019',
+        title: 'State Population by Year',
         curveType: 'function',
         legend: { position: 'right' },
         backgroundColor: '#121212',
