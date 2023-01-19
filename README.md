@@ -1,3 +1,3 @@
-Click the link below to see this page:
+Checkout this page at the link below:
 
-https://htmlpreview.github.io/?https://github.com/jordanhowell96/Compare-State-Populations/blob/main/index.html
+https://jordanhowell96.github.io/Compare-State-Populations/
